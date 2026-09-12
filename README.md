@@ -161,6 +161,5 @@ SQL 작성, Service의 업무 처리, Controller의 Model 전달, Thymeleaf 렌�
 실행 환경과 전체 기능은 [기존 팀 README](docs/ORIGINAL_README.md)를 참고해주세요.
 
 - [전체 구조와 도메인 경계](https://github.com/team-sweethan/cakeshop/blob/dev/docs/conventions.md)
-- [테스트 작성·실행 가이드](https://github.com/team-sweethan/cakeshop/blob/dev/docs/testing.md)
 - [데이터베이스 스키마](https://github.com/team-sweethan/cakeshop/blob/dev/docs/database-schema.md)
 
