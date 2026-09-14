@@ -7,7 +7,6 @@
 - **개발자:** [hxtchhxkxr](https://github.com/hxtchhxkxr)
 - **팀 프로젝트 원본:** [team-sweethan/cakeshop](https://github.com/team-sweethan/cakeshop)
 - **주요 기술:** Java 21 · Spring Boot 4.0.2 · Spring MVC · MyBatis · MariaDB · Thymeleaf · HTML/CSS/JavaScript
-- **이 문서의 범위:** 팀 프로젝트에서 본인이 담당한 구현, 문제 해결 과정, 배운 점
 
 ## 프로젝트에서 얻고 싶었던 것
 
